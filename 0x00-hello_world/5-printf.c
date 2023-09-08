@@ -1,11 +1,10 @@
 #include <stdio.h>
+
 /**
- *main start point program 
- * 
- *Description A C program  printf function
- *
- *return 0 alyaws succsess
+ *miain - intery point.                          *                                               *description print with printf function.
+ *                                               *Return: alaways 0 (succsess).
 */
+
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");

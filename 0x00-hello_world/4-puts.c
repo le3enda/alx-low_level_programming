@@ -3,7 +3,7 @@
 /**
  *main - intery point.
  *
- *description print witb puts function.
+ *description: print with printf function.
  *
  *Return: alaways 0 (succsess).
 */
