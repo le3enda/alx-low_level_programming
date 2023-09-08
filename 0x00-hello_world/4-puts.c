@@ -1,10 +1,12 @@
 #include <stdio.h>
 
 /**
- *main - intery point
- *description print witb puts fun
- *return value of main  0 for succsess
- */
+ *main - intery point.
+ *
+ *description print witb puts function.
+ *
+ *Return: alaways 0 (succsess).
+*/
 
 int main(void)
 {
